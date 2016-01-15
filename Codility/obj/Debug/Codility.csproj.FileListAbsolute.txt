@@ -1,0 +1,6 @@
+D:\Clients\Self\Codility\Codility\bin\Debug\Codility.exe.config
+D:\Clients\Self\Codility\Codility\bin\Debug\Codility.exe
+D:\Clients\Self\Codility\Codility\bin\Debug\Codility.pdb
+D:\Clients\Self\Codility\Codility\obj\Debug\Codility.exe
+D:\Clients\Self\Codility\Codility\obj\Debug\Codility.pdb
+D:\Clients\Self\Codility\Codility\obj\Debug\Codility.csprojResolveAssemblyReference.cache
